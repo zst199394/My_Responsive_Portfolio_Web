@@ -83,6 +83,4 @@ You are required to submit the following:
 
 * The URLs of the GitHub repositories
 
-- - -
 
-reade
