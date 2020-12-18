@@ -85,5 +85,4 @@ You are required to submit the following:
 
 - - -
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
+© 2019 Trilogy Education Services, a 2U, Inc. b
