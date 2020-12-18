@@ -1,8 +1,20 @@
-# My_Responsive_Portfolio_Web
+# Project Overview
 HTML+CSS. Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
-
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+Responsive Portfolio
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+## Languages and Libraries Used
+HTML
+CSS
+Bootstrap
+JavaScript
+JQuery
+Node.js
+Express.js
+Express-Handlebars
+MongoDB
+Mongoose
+Cherrio
+Axios
 ## Directions
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
