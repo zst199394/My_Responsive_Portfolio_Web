@@ -85,4 +85,4 @@ You are required to submit the following:
 
 - - -
 
-© 2019 Trilogy Education Serv
+© 2019 Trilogy Educatiogit 
