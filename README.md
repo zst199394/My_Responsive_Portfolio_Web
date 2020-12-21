@@ -10,7 +10,7 @@ In this project, I am using the Bootstrap CSS Framework to create my mobile resp
 * w3school
 * Bootdey
 
-![code refactor demo](./assets/full_1.png)
+![my portfolio web](./assets/full_1.png)
 ## Responsive Portfolio Goal
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, we will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 * Functional, deployed application
