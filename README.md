@@ -1,7 +1,6 @@
 # Project Overview
-HTML+CSS. Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
-Responsive Portfolio
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+In this project, I am using the Bootstrap CSS Framework to create my mobile responsive portfolio.In this portfolio, it will contain the contact, portfolio and also about me,total 3 pages.
+
 ## Languages and Libraries Used
 * HTML
 * CSS
@@ -10,26 +9,9 @@ Responsive design ensures that web applications render well on a variety of devi
 * Google
 * w3school
 * Bootdey
-
-## Process
-
-First, use the Bootstrap CSS Framework to create a mobile responsive portfolio.
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-* Using Bootstrap, develop your portfolio site with the following items:
-   * A navbar
-   * A responsive layout
-   * Responsive images
-* The Bootstrap portfolio should minimize the use of media queries.
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
-### Hints
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-* Use an HTML validation service to ensure that each page has valid HTML.
-
-### Minimum Requirements
-
+![code refactor demo](./assets/01-html-css-git-homework-demo.png??)
+## Responsive Portfolio Goal
+Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, we will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 * Functional, deployed application
 
 * GitHub repository with README describing the project
@@ -40,13 +22,27 @@ First, use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 
 * All links must work.
 
-* Must use semantic html.
+* Use semantic html.
 
-* Each page must have valid and correct HTML. (use a validation service)
+* Each page must have valid and correct HTML. 
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+* Contain your personalized information. (bio, name, images, links to social media, etc.)
 
-* Must properly utilize Bootstrap components and grid system.
+* Able to properly utilize Bootstrap components and grid system.
+
+## Process
+First, use the Bootstrap CSS Framework to create a mobile responsive portfolio.
+* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+* Using Bootstrap, develop my portfolio site with the following items:
+   * A navbar
+   * A responsive layout
+   * Responsive images
+   * Use Bootstrap's grid system (containers, rows, and columns).
+   * On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+   * Use an HTML validation service to ensure that each page has valid HTML.
+
+
+
 
 ### Bonus
 
@@ -72,13 +68,4 @@ Follow these guidelines for committing:
 
 We would like you to have well over 
 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
 
