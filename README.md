@@ -45,11 +45,3 @@ First, use the Bootstrap CSS Framework to create a mobile responsive portfolio.
    * Use an HTML validation service to ensure that each page has valid HTML.
 
 
-
-
-### Bonus
-
-wwe
-
-
-
