@@ -45,8 +45,8 @@ Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
    * Use an HTML validation service to ensure that each page has valid HTML.
    * Functional, deployed application
 
-Modify all the codes to make sure Navbar consistent on each page,and Navbar on each page contains links to About, Contact, and Portfolio pages.Update the webs until all the links work.Use semantic html elements and give each page must have valid and correct HTML. 
-Fill it up with personalized information. (bio, name, images, links to social media, etc.)
-At the end, properly utilize Bootstrap components and grid system to make the page look like what we expext.
+ Modify all the codes to make sure Navbar consistent on each page,and Navbar on each page contains links to About, Contact, and Portfolio pages.Update the webs until all the links work.Use semantic html elements and give each page must have valid and correct HTML. Fill it up with personalized information. (bio, name, images, links to social media, etc.)
+
+ At the end, properly utilize Bootstrap components and grid system to make the page look like what we expext.
 
 
