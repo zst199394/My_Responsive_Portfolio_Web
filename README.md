@@ -10,9 +10,9 @@ In this project, I am using the Bootstrap CSS Framework to create my mobile resp
 * w3school
 * Bootdey
 
-![my portfolio web](./assets/full_3.png)
-![my portfolio web](./assets/full_2.png)
-![my portfolio web](./assets/full_1.png)
+![my portfolio web-about me page](./assets/full_3.png)
+![my portfolio web-contact page](./assets/full_2.png)
+![my portfolio web-portfolio page](./assets/full_1.png)
 ## Responsive Portfolio Goal
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, we will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 * Functional, deployed application
@@ -47,6 +47,6 @@ Use the Bootstrap CSS Framework to create a mobile responsive portfolio.
 
  Modify all the codes to make sure Navbar consistent on each page,and Navbar on each page contains links to About, Contact, and Portfolio pages.Update the webs until all the links work.Use semantic html elements and give each page must have valid and correct HTML. Fill it up with personalized information. (bio, name, images, links to social media, etc.)
 
- At the end, properly utilize Bootstrap components and grid system to make the page look like what we expext.
+ At the end, properly utilize Bootstrap components and grid system to make the page look like what we expext.Then push to the Github.
 
 
